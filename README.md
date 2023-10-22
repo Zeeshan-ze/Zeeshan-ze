@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zeeshan-ze
 - 👀 I’m interested in [ Web Development ]
-- 🌱 I’m currently learning [ Python ]
+- 🌱 I’m currently learning [ MERN ]
 - 💞️ I’m looking to collaborate on [ Long term web development projects ]
 - 📫 How to reach me [ CannyCodes@gmail.com ]
 
